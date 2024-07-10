@@ -86,7 +86,6 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-
 @Preview
 @Composable
 fun setuprecycler(){
